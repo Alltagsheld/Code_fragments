@@ -1,0 +1,112 @@
+digraph avl {
+node [nodesep=0.8]
+   1 -> n184[color=white]
+   n184[color=white, fontcolor=white]
+   1 -> n185[color=white]
+   n185[color=white, fontcolor=white]
+
+   4 -> 1[color=red]
+   4 -> 10[color=darkgreen]
+   10 -> n186[color=white]
+   n186[color=white, fontcolor=white]
+   10 -> n187[color=white]
+   n187[color=white, fontcolor=white]
+
+
+   15 -> 4[color=red]
+   15 -> 19[color=darkgreen]
+   17 -> n188[color=white]
+   n188[color=white, fontcolor=white]
+   17 -> n189[color=white]
+   n189[color=white, fontcolor=white]
+
+   19 -> 17[color=red]
+   19 -> 22[color=darkgreen]
+   22 -> n190[color=white]
+   n190[color=white, fontcolor=white]
+   22 -> n191[color=white]
+   n191[color=white, fontcolor=white]
+
+
+
+   25 -> 15[color=red]
+   25 -> 49[color=darkgreen]
+   36 -> n192[color=white]
+   n192[color=white, fontcolor=white]
+   36 -> n193[color=white]
+   n193[color=white, fontcolor=white]
+
+   37 -> 36[color=red]
+   37 -> 48[color=darkgreen]
+   48 -> n194[color=white]
+   n194[color=white, fontcolor=white]
+   48 -> n195[color=white]
+   n195[color=white, fontcolor=white]
+
+
+   49 -> 37[color=red]
+   49 -> 50[color=darkgreen]
+   50 -> n196[color=white]
+   n196[color=white, fontcolor=white]
+   50 -> 56[color=darkgreen]
+   56 -> n197[color=white]
+   n197[color=white, fontcolor=white]
+   56 -> n198[color=white]
+   n198[color=white, fontcolor=white]
+
+
+
+
+   57 -> 25[color=red]
+   57 -> 77[color=darkgreen]
+   58 -> n199[color=white]
+   n199[color=white, fontcolor=white]
+   58 -> n200[color=white]
+   n200[color=white, fontcolor=white]
+
+   63 -> 58[color=red]
+   63 -> 67[color=darkgreen]
+   67 -> n201[color=white]
+   n201[color=white, fontcolor=white]
+   67 -> n202[color=white]
+   n202[color=white, fontcolor=white]
+
+
+   72 -> 63[color=red]
+   72 -> 75[color=darkgreen]
+   75 -> n203[color=white]
+   n203[color=white, fontcolor=white]
+   75 -> n204[color=white]
+   n204[color=white, fontcolor=white]
+
+
+   77 -> 72[color=red]
+   77 -> 90[color=darkgreen]
+   84 -> n205[color=white]
+   n205[color=white, fontcolor=white]
+   84 -> n206[color=white]
+   n206[color=white, fontcolor=white]
+
+   85 -> 84[color=red]
+   85 -> 89[color=darkgreen]
+   89 -> n207[color=white]
+   n207[color=white, fontcolor=white]
+   89 -> n208[color=white]
+   n208[color=white, fontcolor=white]
+
+
+   90 -> 85[color=red]
+   90 -> 91[color=darkgreen]
+   91 -> n209[color=white]
+   n209[color=white, fontcolor=white]
+   91 -> 92[color=darkgreen]
+   92 -> n210[color=white]
+   n210[color=white, fontcolor=white]
+   92 -> n211[color=white]
+   n211[color=white, fontcolor=white]
+
+
+
+
+
+}

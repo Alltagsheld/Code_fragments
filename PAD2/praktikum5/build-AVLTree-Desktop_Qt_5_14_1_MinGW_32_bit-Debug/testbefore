@@ -1,0 +1,20 @@
+digraph avl {
+node [nodesep=0.8]
+   17 -> n1[color=white]
+   n1[color=white, fontcolor=white]
+   17 -> 21[color=darkgreen]
+   21 -> n2[color=white]
+   n2[color=white, fontcolor=white]
+   21 -> n3[color=white]
+   n3[color=white, fontcolor=white]
+
+
+   42 -> 17[color=red]
+   42 -> 1337[color=darkgreen]
+   1337 -> n4[color=white]
+   n4[color=white, fontcolor=white]
+   1337 -> n5[color=white]
+   n5[color=white, fontcolor=white]
+
+
+}
